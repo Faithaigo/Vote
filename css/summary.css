@@ -68,9 +68,10 @@ transform: scale(1.5);
   height: 200px
 }
 #foot{
-  height: 200px;
+  height: 100px;
   background-color: #af4425;
   margin-top: 10%;
+  color: white;
 }
 #sch{
   padding-left: 15%;

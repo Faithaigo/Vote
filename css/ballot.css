@@ -68,6 +68,7 @@ ol li a {
 }
 
 /*side bar*/
+
 /*main*/
 
 #instructions {
@@ -77,6 +78,7 @@ ol li a {
 }
 
 /*main*/
+
 /*instructions*/
 
 .inst {
@@ -90,3 +92,13 @@ ol li a {
 }
 
 /*instructions*/
+
+/*vote*/
+
+#vote {
+  text-decoration: underline;
+  color: #260132;
+  font-weight: 800;
+}
+
+/*vote*/

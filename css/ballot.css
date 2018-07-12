@@ -77,3 +77,16 @@ ol li a {
 }
 
 /*main*/
+/*instructions*/
+
+.inst {
+  font-size: 20px;
+}
+
+.inst a {
+  font-weight: 800;
+  color: purple;
+  font-size: 25px;
+}
+
+/*instructions*/

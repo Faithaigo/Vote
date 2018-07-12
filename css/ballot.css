@@ -102,3 +102,54 @@ ol li a {
 }
 
 /*vote*/
+
+/*candidate*/
+
+h3.candidate {
+  border-radius: 4px;
+  width: 200px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  color: #260132;
+  text-align: center;
+  font-weight: 500;
+  font-size: 30px;
+  margin-left: 290px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*candidate*/
+
+/*.can*/
+
+.can {}
+
+.post {
+  margin-right: 0px;
+  text-align: center;
+}
+
+.post img {
+  max-width: 100%;
+  height: auto;
+}
+
+.post h4 {
+  font-size: 20px;
+  color: #260132;
+}
+
+div.vote {
+  color: white;
+  background-color: #260132;
+  width: 70px;
+  height: auto;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 45px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
+/*.can*/

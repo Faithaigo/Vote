@@ -152,4 +152,16 @@ div.vote {
   border-radius: 8px;
 }
 
+#hp {
+  color: white;
+  background-color: #260132;
+  width: 90px;
+  height: auto;
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 15px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+
 /*.can*/

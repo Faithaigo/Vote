@@ -4,6 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://www.gstatic.com/firebasejs/5.2.0/firebase.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
   <link href="css/ballot.css" rel="stylesheet" type="text/css">
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
@@ -111,11 +112,11 @@
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 post">
           <div class="can">
-            <h4>NAME</h4>
+            <h4 id="head-prefer">NAME</h4>
             <img src="https://placehold.it/200x180?text=IMAGE" alt="seeta high school badge">
-            <div class="vote">
-              VOTE
-            </div>
+          <button id="hp"type="button" class="btn btn-primary">Primary</button>
+          <div id="counter"></div>
+          <div id="count"></div>
           </div>
         </div>
         <div class="col-md-3 col-sm-6 col-xs-12 post">

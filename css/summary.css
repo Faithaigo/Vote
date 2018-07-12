@@ -5,3 +5,113 @@ body{
   height: 200px;
 
 }
+#school{
+  background-color: #000b29;
+  height: 250px;
+  color: white;
+  height: 300px;
+}
+#demo{
+  text-align: center;
+  font-size: 60px;
+  transition: transform .2s;
+  color: green;
+}
+#demo:hover{
+transform: scale(1.5);
+ }
+#two {
+  height: 200px;
+}
+#sch:hover{
+  transition: transform .2s;
+
+}
+#third {
+  height: 200px;
+}
+
+#fourth {
+  height: 200px
+}
+
+#fifth {
+  height: 200px
+}
+
+#sixth {
+  height: 200px
+}
+
+#seventh {
+  height: 200px
+}
+#h1{
+  font-size: 60px;
+  background-color: #011a27;
+  color: white;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 20%;
+}
+#badge{
+  border-radius: 70%;
+}
+#eighth {
+  height: 200px
+}
+#foot{
+  height: 100px;
+  background-color: #af4425;
+  margin-top: 12%;
+}
+#sch{
+  padding-left: 15%;
+  text-align: center;
+  font-size: 60px;
+  padding-left: 10px;
+  padding-top: 20px;
+}
+#ninth {
+  height: 100px;
+
+}
+.right{
+  text-align: center;
+}
+#hgirl {
+  height: 200px
+}
+.posts{
+  padding-top: 30%;
+  border-radius: 50%;
+  height: 5%;
+
+}
+#table {
+  position: absolute;
+  background: #ddd;
+  border: solid #999;
+  box-shadow: 0 0 5 3px #ccc;
+  height: 150px;
+  width: 300px;
+  text-align: center;
+}
+#logo{
+  height: 200px;
+    width: 50%;
+}
+.img {
+  border-radius: 50%;
+}
+
+#info {
+  font-size: 20px;
+}
+p{
+  font-size: 25px;
+}
+#social{
+  width: 200px;
+  float: right;
+}

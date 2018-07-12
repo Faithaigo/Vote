@@ -22,29 +22,36 @@ transform: scale(1.5);
  }
 #two {
   height: 200px;
+  color: white;
 }
 #sch:hover{
   transition: transform .2s;
+  padding-top: 5%;
 
 }
 #third {
   height: 200px;
+  margin-bottom: 10%;
 }
 
 #fourth {
-  height: 200px
+  height: 200px;
+    margin-bottom: 10%;
 }
 
 #fifth {
-  height: 200px
+  height: 200px;
+  margin-bottom: 10%;
 }
 
 #sixth {
-  height: 200px
+  height: 200px;
+  margin-bottom: 10%;
 }
 
 #seventh {
-  height: 200px
+  height: 200px;
+  margin-bottom: 10%;
 }
 #h1{
   font-size: 60px;
@@ -61,9 +68,9 @@ transform: scale(1.5);
   height: 200px
 }
 #foot{
-  height: 100px;
+  height: 200px;
   background-color: #af4425;
-  margin-top: 12%;
+  margin-top: 10%;
 }
 #sch{
   padding-left: 15%;
@@ -80,12 +87,18 @@ transform: scale(1.5);
   text-align: center;
 }
 #hgirl {
-  height: 200px
+  height: 200px;
+  margin-bottom: 10%;
 }
 .posts{
   padding-top: 30%;
-  border-radius: 50%;
-  height: 5%;
+  border-radius: 30%;
+  height: 300px;
+  text-transform: uppercase;
+  background-color: #002c54;
+  color: white;
+  padding-left: 20%;
+  padding-top: 50%;
 
 }
 #table {
@@ -102,7 +115,7 @@ transform: scale(1.5);
     width: 50%;
 }
 .img {
-  border-radius: 50%;
+  border-radius: 30%;
 }
 
 #info {

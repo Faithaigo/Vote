@@ -1,5 +1,6 @@
 body{
-  font-family: 'Source Serif Pro', serif
+  font-family: 'Source Serif Pro', serif;
+  
 }
 #h1{
   font-size: 60px;
@@ -17,13 +18,23 @@ body{
   }
   #school{
     background-color: #000b29;
-    height: 250px;
+    height: 200px;
     color: white;
-    height: 300px;
+
   }
   #badge{
-    border-radius: 70%;
+    border-radius: 20%;
+    padding-top: 5%;
   }
-  #hp{
-    align-items: center;
+  #foot{
+    height: 100px;
+    background-color: #af4425;
+    margin-top: 5%;
+    color: white;
   }
+  #sch{
+    padding-left: 15%;
+    text-align: center;
+    font-size: 60px;
+    padding-left: 10px;
+    padding-top: 20px;
